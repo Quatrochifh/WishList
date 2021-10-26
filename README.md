@@ -23,8 +23,7 @@
   <h2> Como clonar o repositório</h2>
   <p>Ao entrar no repositório WishList você verá um botão verde escrito "Code" que, quando clicado, te dará um link em HTTPS que deverá ser copiado. Depois de copiar o link, abra o Git Bash na sua máquina, escreva git clone e logo em seguida cole o link e dê enter. O repositório começará a ser colando e você poderá acessar todas as informações dos códigos.</p>
   
-  <h2>Desenvolvedores</h2>
-  ###
+  ###<h2>Desenvolvedores</h2>
 - 👩‍💻 João Pedro Ribeiro (AKA João, o brabo)
 - 👩‍💻 Natan Furtado
 - 👩‍💻 Nayara Nogueira Escudeiro do Nascimento
