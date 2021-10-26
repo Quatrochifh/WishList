@@ -20,3 +20,11 @@
   </div>
   <h2> Como  utilizar a API</h2>
   <p>Logo quando inicializada, a API abrirá na pagina Home e nela irão ter dois botões, um de cadastras desejos e outro de listar todos os desejos do usuário. O acesso das páginas são simples, onde é só clicar no botão e ele já redicionará o usuário para a página de listagem e cadastro. No cadastro, o usuário coloca qual é seu desejo e o descreve logo embaixo, e ao apertar em cadastrar a API já logo lista esse novo desejo e assim em diante</p>
+  <h2> Como clonar o repositório</h2>
+  <p>Ao entrar no repositório WishList você verá um botão verde escrito "Code" que, quando clicado, te dará um link em HTTPS que deverá ser copiado. Depois de copiar o link, abra o Git Bash na sua máquina, escreva git clone e logo em seguida cole o link e dê enter. O repositório começará a ser colando e você poderá acessar todas as informações dos códigos.</p>
+  ### DESENVOLVEDORES:
+
+- 👩‍💻 João Pedro Ribeiro (AKA João, o brabo)
+- 👩‍💻 Natan Furtado
+- 👩‍💻 Nayara Nogueira Escudeiro do Nascimento
+- 👩‍💻 Fabio Quatrochi
