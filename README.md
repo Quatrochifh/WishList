@@ -6,3 +6,8 @@
 <p>O Just Wish é uma API feita com as funcionalidades de cadastrar e listar os desejos de um usuário. Contém uma página Home que possui dois botões que redirecionam o usuário para a página de listagem e de cadastro dos desejos</p>
 <h2> Para que serve</h2>
 <p>O Just Wish é um local onde você pode alocar todos seus desejos em um local só, nunca se esquecendo deles e tendo um propósito para continuar sua batalha!</p>
+<h2> Nossas tecnologias</h2>
+<a href="https://github.com/escudeiro777>
+<div>  
+  <a href="https://github.com/Quatrochif/WishList">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quatrochif/WishList&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
