@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Open+Sans:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fenix&display=swap');
+
+.App {
+  text-align: center;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  width: 1300px;
+  margin: 0 auto;
+  
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-image: url("../../assests/page\ home.png");
+  
+  background-size: cover;
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Chewy', cursive;
+  
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.logo{
+  height: 393px;
+  width: 715px;
+}
+.estrelas{
+  width: 1440px;
+  height: 749px;
+  border-radius: 332px;
+}
+
+.org_bnt{
+  display: flex;
+  width: 940px;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 86px;
+}
+.bnt_home{
+  background-color: #0A0622F7;
+  color: white;
+  font-family: 'Chewy', cursive;
+  font-size: 50px;
+  width: 382px;
+  height: 220px;
+  border-radius: 15px;
+  
+  
+}
+
+.div_cor{
+  background-color: #0F0932;
+}
+.header_cadastrar{
+  background-color: #0F0932;
+  
+  height: 177px;
+
+}
+.logo_cadastrar{
+  height: 100%;
+  width: 262px;
+}
+
+.form_cadastrar{
+  background-color: white;
+  height: 681.46px;
+  width: 1300px;
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.form_cadastrar h2{
+  font-size: 64px;
+  font-family: 'Fenix', serif;
+  line-height: 71px;
+  font-weight: normal
+
+}
+.form_cadastrar input{
+  width: 783px;
+  height: 97px;
+  background-color: #F8F8F8;
+  color: #5A5A5A;
+  padding: 7px;
+  box-shadow: 0px 5px 15px 2px rgba(102, 102, 102, 0.25);
+  border-radius: 5px; 
+  font-size: 30px;
+  line-height: 35px;
+}
+.form_cadastrar button{
+  width: 538px;
+  height: 73px;
+  background-color: #FFD400;
+  color: black ;
+  box-shadow: 0px 5px 15px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 13px;
+  font-size: 30px;
+  line-height: 35px;
+  
+}
+
+.form_listar{
+  width: 1307.38px;
+  height: 777.51px;
+  background-color: white;
+  margin-top: 99px;
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.form_listar h2{
+  font-size: 64px;
+  font-family: 'Fenix', serif;
+  line-height: 71px;
+  font-weight: normal;
+  margin-top: 69px;
+}
+.org_table{
+  width: 1221px;
+  height: 79px;
+  background-color: #FFFFFF;
+  border: 2px solid #5A5A5A;
+  box-sizing: border-box;
+  margin-top: 53px;
+  margin-bottom: 60px;
+  
+}
+.org_table thead{
+  width: 1221px;
+  height: 79px;
+  background: #FFFFFF;
+  border: 2px solid #5A5A5A;
+  box-sizing: border-box;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 47px;
+  color: #5A5A5A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.org_table tbody{
+  width: 1221px;
+  height: 79px;
+  background: #FFFFFF;
+  border: 2px solid #5A5A5A;
+  font-size: 25px;
+  line-height: 47px;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding-left: 180px; */
+}
+.org_table th{
+  width: 407px;
+ 
+}
+.org_table td{
+  width: 407px;
+  
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
