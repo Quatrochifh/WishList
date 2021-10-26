@@ -8,10 +8,12 @@
 <p>O Just Wish é um local onde você pode alocar todos seus desejos em um local só, nunca se esquecendo deles e tendo um propósito para continuar sua batalha!</p>
 <h2> Nossas tecnologias</h2>
 <div>
+  <h3>Frontend</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <h3>Backend</h3>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Sql Server" height="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png" width="350" alt="Sql Server Library Icon" />
   <img align="center" alt="API" height="35" width="35" src="https://cdn-icons.flaticon.com/png/512/1493/premium/1493176.png?token=exp=1635281530~hmac=1321e49a14289045f2e983fb9cb54770" alt="Api grátis ícone" title="Api grátis ícone" class="loaded" width="256" height="256">
