@@ -7,7 +7,8 @@
 <h2> Para que serve</h2>
 <p>O Just Wish é um local onde você pode alocar todos seus desejos em um local só, nunca se esquecendo deles e tendo um propósito para continuar sua batalha!</p>
 <h2> Nossas tecnologias</h2>
-<a href="https://github.com/escudeiro777>
-<div>  
-  <a href="https://github.com/Quatrochif/WishList">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quatrochif/WishList&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
