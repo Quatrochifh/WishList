@@ -13,5 +13,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Sql Server" height="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png" width="350" alt="Sql Server Library Icon" /></a>
+  <img align="center" alt="Sql Server" height="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png" width="350" alt="Sql Server Library Icon" />
+  <img align="center" alt="API" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/1493/premium/1493176.png?token=exp=1635281530~hmac=1321e49a14289045f2e983fb9cb54770" alt="Api grátis ícone" title="Api grátis ícone" class="loaded" width="256" height="256">
   </div>
