@@ -18,3 +18,5 @@
   <img align="center" alt="Sql Server" height="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png" width="350" alt="Sql Server Library Icon" />
   <img align="center" alt="API" height="35" width="35" src="https://cdn-icons.flaticon.com/png/512/1493/premium/1493176.png?token=exp=1635281530~hmac=1321e49a14289045f2e983fb9cb54770" alt="Api grátis ícone" title="Api grátis ícone" class="loaded" width="256" height="256">
   </div>
+  <h2> Como  utilizar a API</h2>
+  <p>Logo quando inicializada, a API abrirá na pagina Home e nela irão ter dois botões, um de cadastras desejos e outro de listar todos os desejos do usuário. O acesso das páginas são simples, onde é só clicar no botão e ele já redicionará o usuário para a página de listagem e cadastro. No cadastro, o usuário coloca qual é seu desejo e o descreve logo embaixo, e ao apertar em cadastrar a API já logo lista esse novo desejo e assim em diante</p>
