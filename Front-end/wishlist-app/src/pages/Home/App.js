@@ -2,6 +2,12 @@ import logo from "../../assests/wishlist_branco 1.png"
 // import estrelas from "../../assests/page home.png"
 import './App.css';
 
+
+function rota(){
+  
+  window.location.href= 'http://localhost:3000/desejos?'
+}
+
 function App() {
   return (
     <div className="App">
@@ -18,8 +24,8 @@ function App() {
 
         <div className= 'org_bnt'>
 
-          <button className='bnt_home' type='submit'>Cadastre desejos</button>
-          <button className='bnt_home' type='submit'>Meus desejos</button>
+          <button className='bnt_home' type='submit' onClick={() => rota()}>Cadastre desejos</button>
+          <button className='bnt_home' type='submit' onClick={() => rota()}>Meus desejos</button>
         </div>
 
       </body>

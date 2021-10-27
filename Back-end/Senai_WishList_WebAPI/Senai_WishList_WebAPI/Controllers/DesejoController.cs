@@ -33,6 +33,21 @@ namespace Senai_WishList_WebAPI.Controllers
             _DesejoRepository.Cadastrar(novoDesejo);
 
             return StatusCode(201);
-        } 
+        }
+
+        [HttpGet("{id}")]
+        public IActionResult BuscarPorId(int id)
+        {
+            Desejo listaDesejos =_DesejoRepository.BuscarPorId(id);
+
+            return Ok(listaDesejos);
+        }
+
+        [HttpDelete("deletar/{id}")]
+        public IActionResult Deletar(int id)
+        {
+            _DesejoRepository.Deletar(id);
+            return StatusCode(204);
+        }
     }
 }

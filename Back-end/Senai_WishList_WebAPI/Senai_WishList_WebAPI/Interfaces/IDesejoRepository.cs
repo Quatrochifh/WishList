@@ -13,5 +13,7 @@ namespace Senai_WishList_WebAPI.Interfaces
         Desejo BuscarPorId(int id);
 
         void Cadastrar(Desejo novoDesejo);
+
+        void Deletar(int id);
     }
 }

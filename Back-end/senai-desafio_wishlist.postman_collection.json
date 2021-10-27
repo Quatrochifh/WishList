@@ -1,0 +1,101 @@
+{
+	"info": {
+		"_postman_id": "c7bc3796-9d0c-4061-a7a4-c8c8e1410785",
+		"name": "senai-desafio_wishlist",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Desejo.Listar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/desejo",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"desejo"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Desejo.Cadastrar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"idUsuario\": 1,\r\n    \"titulo\": \"Casar\",\r\n    \"descricao\": \"Casar com alguem legal!\"\r\n    \r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/desejo",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"desejo"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Desejo.Deletar",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/desejo/deletar/5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"desejo",
+						"deletar",
+						"5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Desejo.BuscarPorId",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/desejo/4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"desejo",
+						"4"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

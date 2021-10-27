@@ -7752,19 +7752,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\quatr\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\quatr\\OneDrive\\Documentos\\WishList\\Senai_WishList_WebAPI\\Senai_WishList_WebAPI\\Senai_WishList_WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\SENAI\\2°semestre- SENAI\\Projetos\\WishList\\Back-end\\Senai_WishList_WebAPI\\Senai_WishList_WebAPI\\Senai_WishList_WebAPI.csproj",
       "projectName": "Senai_WishList_WebAPI",
-      "projectPath": "C:\\Users\\quatr\\OneDrive\\Documentos\\WishList\\Senai_WishList_WebAPI\\Senai_WishList_WebAPI\\Senai_WishList_WebAPI.csproj",
-      "packagesPath": "C:\\Users\\quatr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\quatr\\OneDrive\\Documentos\\WishList\\Senai_WishList_WebAPI\\Senai_WishList_WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\user\\Documents\\SENAI\\2°semestre- SENAI\\Projetos\\WishList\\Back-end\\Senai_WishList_WebAPI\\Senai_WishList_WebAPI\\Senai_WishList_WebAPI.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\SENAI\\2°semestre- SENAI\\Projetos\\WishList\\Back-end\\Senai_WishList_WebAPI\\Senai_WishList_WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\quatr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

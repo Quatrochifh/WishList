@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Senai_WishList_WebAPI
-build_property.ProjectDir = C:\Users\quatr\OneDrive\Documentos\WishList\Senai_WishList_WebAPI\Senai_WishList_WebAPI\
+build_property.ProjectDir = C:\Users\user\Documents\SENAI\2°semestre- SENAI\Projetos\WishList\Back-end\Senai_WishList_WebAPI\Senai_WishList_WebAPI\
